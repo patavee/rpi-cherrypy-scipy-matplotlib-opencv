@@ -15,4 +15,5 @@ mock
 pytz
 pyyaml
 pyserial
+pyusb
 pykwalify
