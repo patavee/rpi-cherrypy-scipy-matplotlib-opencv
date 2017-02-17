@@ -16,4 +16,5 @@ pytz
 pyyaml
 pyserial
 pyusb
+minimalmodbus
 pykwalify
