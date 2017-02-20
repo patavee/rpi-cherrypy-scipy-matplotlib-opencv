@@ -3,6 +3,7 @@ FROM patavee/rpi-scipy-matplotlib-opencv
 MAINTAINER Patavee Charnvivit <patavee@gmail.com>
 
 RUN apt-get update && apt-get install -y \
+    usbutils \
     curl \
     git \
     iputils-ping \
