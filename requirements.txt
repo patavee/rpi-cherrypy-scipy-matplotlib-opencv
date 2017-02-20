@@ -18,3 +18,4 @@ pyserial
 pyusb
 minimalmodbus
 pykwalify
+rx
