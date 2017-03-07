@@ -19,3 +19,6 @@ pyusb
 minimalmodbus
 pykwalify
 rx
+psutil
+PyDrive
+watchdog
